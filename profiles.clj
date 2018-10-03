@@ -16,6 +16,6 @@
                   [lein-create-template "0.2.0"]
                   [lein-marginalia "0.9.1"]
                   [lein-exec "0.3.7"]
-                  [lein-midje "3.2.0"]
+                  [lein-midje "3.2.1"]
                   [lein-kibit "0.1.6"]
                   [lein-gorilla "0.4.0"]]}}
