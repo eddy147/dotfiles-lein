@@ -10,6 +10,7 @@
                      (try (require 'spyscope.core)
                           (catch RuntimeException e))]
         :plugins [[lein-pprint "1.1.1"]
+                  [lein-auto "0.1.3"]
                   [lein-ancient "0.6.15"]
                   [lein-cljfmt "0.6.1"]
                   [lein-clojars "0.9.1"]
